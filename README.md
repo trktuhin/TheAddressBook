@@ -1,2 +1,3 @@
 This system helps one to manage his address books. There is different types of books including family, office etc. Each address book holds a collection of entries including their name, email, city, contact number and address. To get these facilities user must register with the system first.
 Here I have provided a project demo video and a project report along with all documents related to this project.You can check those out. Thanks for your time.
+NB: Before running this project on your computer you will need to update database for all migrations. Go to Nuget Package Manager console and then type "update database". Then you are all set to run and use the system properly.
