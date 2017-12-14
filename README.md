@@ -1,1 +1,1 @@
-# TheAddressBook
+This system helps one to manage his address books. There is different types of books including family, office etc. Each address book holds a collection of entries including their name, email, city, contact number and address. To get these facilities user must register with the system first.
